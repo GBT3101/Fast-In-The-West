@@ -11,3 +11,5 @@ made by Lua (Corona SDK), "Fast In The West", a game for smartphones and tablets
 	
 You can download the apk file
 [here](https://dl.dropboxusercontent.com/u/96757029/apps/Fast%20in%20the%20West.apk)
+
+Teaser animation can be found [here](http://www.newgrounds.com/dump/item/dca7afb3efcfeebab739de9f1d8622db)
