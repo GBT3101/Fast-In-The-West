@@ -3,7 +3,7 @@ Fast-In-The-West
 
 made by Lua (Corona SDK), "Fast In The West", a game for smartphones and tablets, works on all no matter the resolution.
 
-![image](https://www.dropbox.com/s/ddtk9jv00rxieap/fitw.png)
+![image](https://image.ibb.co/cwfmeo/fitw_preview.png)
 
 **Game Instructions:**
 	Really simple, once you start, a red timer runs down at the bottom of the screen, meanwhile mr.saito will run and teleport on the screen randomly in different sizes when you touch him, the goal of the game is to press him fast and earn points.
